@@ -13,6 +13,7 @@ export default [
             'data:',
             'blob:',
             'dl.airtable.com',
+            'market-assets.strapi.io',
             'pointhub-blog.s3.us-west-004.backblazeb2.com',
           ],
           'media-src': [
